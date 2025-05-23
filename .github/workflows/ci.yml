@@ -22,4 +22,4 @@ jobs:
         with:
           fail: true
           failIfEmpty: false
-          args: --ignore-file .lycheeignore
+          args: -- --ignore-file .lycheeignor
