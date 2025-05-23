@@ -15,11 +15,10 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_HTML: true
-      
 
       - name: Check for Broken Links
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
           failIfEmpty: false
-          args: -- --ignore-file .lycheeignore
+          args: -- --ignore-file ./.lycheeignore
