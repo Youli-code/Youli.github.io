@@ -1,0 +1,5 @@
+# Only lint specific paths
+FILTER_REGEX_INCLUDE: "^(index.html|.*\\.css|.*\\.js)$"
+
+# Optional: exclude assets/vendor or template libs
+FILTER_REGEX_EXCLUDE: "^(assets/js/|assets/lib/|node_modules/|images/)"
