@@ -19,6 +19,4 @@ jobs:
       - name: Check for Broken Links
         uses: lycheeverse/lychee-action@v2
         with:
-          fail: true
-          failIfEmpty: false
-          args: -- --ignore-file ./.lycheeignore
+          args: --ignore-file ./.lycheeignor
