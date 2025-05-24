@@ -1,34 +1,26 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Overview:
+This is the personal portfolio website of Lubomir Metodiev, a Junior DevOps Engineer with a background in system administration and a passion for automation, scripting, and infrastructure technologies.
 
+Website Structure:
+- Homepage: Introduction and a brief personal statement.
+- About: A summary of Lubomir's journey from system administration to DevOps.
+- Skills ("Things I Can Do"): Highlights technologies and tools used, including Bash, Python, Docker, and Terraform.
+- Projects ("A Few Accomplishments"): Showcases completed work such as:
+  • DevOps Fundamentals course by Pragmatic
+  • A custom-made text-based RPG game in Python
+  • Various automation and scripting tools for backups, logs, and webhooks
+- Contact: Form for visitors to get in touch.
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Social Links:
+- LinkedIn: https://www.linkedin.com/in/lubomir-metodiev-51b741278/
+- GitHub: https://github.com/Youli-code
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+How to Use:
+Open `index.html` in any modern web browser to view the site.
+All necessary assets (CSS, images, and JS files) should be stored in the corresponding `assets/` and `images/` folders.
 
-(* = Not included)
+Design:
+This site uses a responsive layout based on HTML5 UP’s "Read Only" template and is styled via `assets/css/main.css`.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Author:
+Lubomir Metodiev
